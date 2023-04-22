@@ -43,8 +43,3 @@ pip freeze > requirements.txt
 $ pip install -r requirements.txt
 
 - 사용하던 패키지를 다운받음
-
-
-
-
-# Test_pandas
